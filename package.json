@@ -1,0 +1,25 @@
+{
+  "name": "node-paginate",
+  "version": "1.0.0",
+  "description": "This module make server side pagination easy.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MuhammadAkif/node-paginate.git"
+  },
+  "keywords": [
+    "paginate",
+    "pagination",
+    "node-pagination",
+    "server-side-pagination"
+  ],
+  "author": "muhammad akif",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MuhammadAkif/node-paginate/issues"
+  },
+  "homepage": "https://github.com/MuhammadAkif/node-paginate#readme"
+}
